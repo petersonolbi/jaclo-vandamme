@@ -1,0 +1,16 @@
+# Eclipse IDE
+.classpath
+.project
+.settings/
+*/*/*/.project
+
+# IntelliJ IDEA
+*.iml
+*/*/*/.idea/
+/.idea/
+
+# Java
+*/*/*/bin/
+*/*/*/target/
+/bin/
+/target/
