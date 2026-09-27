@@ -1,16 +1,17 @@
+# Cloujure
+.cpcache
+.clj-kondo
+
 # Eclipse IDE
 .classpath
 .project
 .settings/
-*/*/*/.project
+.project
 
 # IntelliJ IDEA
 *.iml
-*/*/*/.idea/
-/.idea/
+.idea/
 
 # Java
-*/*/*/bin/
-*/*/*/target/
-/bin/
-/target/
+bin/
+target/
